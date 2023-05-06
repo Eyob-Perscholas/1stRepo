@@ -1,3 +1,5 @@
 Seattle is a nice city.
 
 Seattle is mostly rainy.
+
+Seattle is green.
